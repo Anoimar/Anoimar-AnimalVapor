@@ -24,7 +24,7 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
         hostname: "db4free.net",
         port: 3306,
         username: "my_shop",
-        password: "password_here",
+        password: "xxxx",
         database: "my_shop"
     )
     services.register(mysqlConfig)
